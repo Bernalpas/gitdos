@@ -1,16 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body{
-    background: #343434;
-    color: rgb(255, 236, 67);
-}
-
-img {
-    width: 150px;
-    height: 200px;
-    border-radius: 5px;
+    background: #fafafa;
 }
